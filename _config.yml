@@ -1,2 +1,3 @@
 name: Paul Apivat
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
